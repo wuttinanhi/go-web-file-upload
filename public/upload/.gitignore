@@ -1,0 +1,9 @@
+# ignore image
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.svg
